@@ -6,31 +6,31 @@ export const projects = [
         name: "Diner App",
         link: "https://bensdinerapp.netlify.app/",
         github: "test",
-        image: "istockphoto-956025576-612x612.jpg"
+        image: "./images/istockphoto-956025576-612x612.jpg"
     },
     {
         name: "Password Generator",
         link: "https://getpasswordbyben.netlify.app/",
         github: "",
-        image: "expressvpn-password-guide-two.jpg"
+        image: "./images/expressvpn-password-guide-two.jpg"
     },
     {
         name: "RGB Color Generator",
         link: "https://benallington-rba-generator.netlify.app",
         github: "test",
-        image: "html-color-codes-color-wheel-analogous-thumb.png"
+        image: "./images/html-color-codes-color-wheel-analogous-thumb.png"
     },
     {
         name: "To Do List",
         link: "https://benallington-rba-generator.netlify.app",
         github: "test",
-        image: "twitterlists-TA.webp"
+        image: "./images/twitterlists-TA.webp"
     },
     {
         name: "Unit Converter",
         link: "https://benunitconverter.netlify.app",
         github: "test",
-        image: "istockphoto-533838860-612x612.jpg"
+        image: "./images/istockphoto-533838860-612x612.jpg"
     }
 ]
 
