@@ -36,12 +36,12 @@ export function getProjectHtmlString() {
     projects.forEach(function(project) {
 
         string += `
-            <div class="project">
+            <a href="${project.link}" target="_blank"><div class="project">
                     <img class="project-image" src="${project.image}">
                     <div class="project-name">
-                        <a href="${project.link}" target="_blank"><h3 class="project-h3">${project.name}</h3></a>
+                       <h3 class="project-h3">${project.name}</h3>
                     </div>
-            </div>`
+            </div></a>`
 
     })
 
