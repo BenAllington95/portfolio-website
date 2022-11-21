@@ -276,6 +276,10 @@ img {
         font-size: 1rem;
     }
 
+    .header {
+        display: none;
+    }
+
 
     .main,.header, .about {
         background: #4f5054;
